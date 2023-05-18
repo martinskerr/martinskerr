@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Martin Lopez Garrido</h1>
 <h3 align="center">I love the backend things</h3>
 
-- 🔭 I’m currently working on [real estate Page Web](https://github.com/martinskerr/bs_study)
+- 🔭 I’m currently working on: [real estate Page Web](https://github.com/martinskerr/bs_study)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning: **JavaScript**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about: **Python**
 
-- 📫 How to reach me **https://www.linkedin.com/in/martin-lopez-programmer/**
+- 📫 How to reach me: **https://www.linkedin.com/in/martin-lopez-programmer/**
 
-- ⚡ Fun fact **I love Croissants and The Coffe Time**
+- ⚡ Fun fact: **I love Croissants and The Coffe Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
