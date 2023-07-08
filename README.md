@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Lopez Garrido</h1>
-<h3 align="center">I love the backend things</h3>
+<h3 align="center">Front or Back?</h3>
 
 - 🔭 I’m currently working on: [real estate Page Web](https://github.com/martinskerr/bs_study)
 
