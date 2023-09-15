@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [real estate Page Web](https://github.com/martinskerr/bs_study)
 
-- 🌱 I’m currently learning: **JavaScript**
+- 🌱 I’m currently learning: **Django**
 
 - 💬 Ask me about: **Python**
 
